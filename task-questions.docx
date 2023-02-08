@@ -1,10 +1,16 @@
-1-Find all the information about each products
-2-Find the product price which are between 400 to 800
-3-Find the product price which are not between 400 to 600
-4-List the four product which are grater than 500 in price 
-5-Find the product name and product material of each products
-6-Find the product with a row id of 10
-7-Find only the product name and product material
-8-Find all products which contain the value of soft in product material 
-9-Find products which contain product color indigo  and product price 492.00
-10-Delete the products which product price value are same
+Design database for Zen class programme
+users
+codekata
+attendance
+topics
+tasks
+company_drives
+mentors
+
+
+Find all the topics and tasks which are thought in the month of October
+Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
+Find all the company drives and students who are appeared for the placement.
+Find the number of problems solved by the user in codekata
+Find all the mentors with who has the mentee's count more than 15
+Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
